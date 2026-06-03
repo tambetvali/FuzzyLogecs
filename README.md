@@ -1,3 +1,82 @@
+# Introduction: Two Interactive Companions to FuzzyLogecs  
+
+This project is accompanied by two interactive companion sites that help you *see* and *experience* the ideas behind Laegna and FuzzyLogecs.  
+They are not replacements for the written theory — the written material is more complete, more exact, and more mathematically faithful — but these two sites give you fast, visual entry points into the same conceptual space.
+
+### **1. Fuzzy Laegna Logic — Interactive Circle Model**  
+**https://fuzzy-laegna-logic.lovable.app/#circle**
+
+This site presents a circular, octave‑based visualization of Laegna fuzzy logic.  
+It focuses on:
+
+- the Z–X–Y backbone as a continuous loop,  
+- the flow from false → linear → true → higher‑true,  
+- the octave jumps (Y⁺ and Z⁻),  
+- the resonance of truth values across scales,  
+- and the way O, A, I, E behave as truth‑flavors in motion.
+
+It is intentionally simplified:  
+a visual “entry door” into the system, showing how truth behaves when treated as a direction, a cycle, and a resonance pattern rather than a single scalar.  
+This matches the README’s explanation of truth as *movement* and *octave*, not a point.
+
+### **2. Medo.dev App — Structural and Symbolic Exploration**  
+**https://app-c314phauq1hd.appmedo.com**
+
+This second site approaches the same theory from a more structural angle.  
+Where the first site is circular and intuitive, this one is:
+
+- symbolic,  
+- layered,  
+- closer to the document‑level logic,  
+- and more faithful to the multi‑digit Laegna number structure.
+
+It illustrates:
+
+- how Laegna words (like OI, AE, Ee) behave as fuzzy truth objects,  
+- how log–lin–exp behavior emerges from I, O/A, E,  
+- how infinity is treated as a repeating relation,  
+- how truth accumulates across timelines,  
+- and how octave‑shifts preserve identity.
+
+This site is closer to the README’s deeper sections — the parts about infinity, resonance, and multi‑scale equivalence.
+
+### **How these two sites relate to the README**
+
+The README is the *formal document*.  
+It defines:
+
+- the Z–X–Y backbone,  
+- the O–A–I–E analytic alphabet,  
+- multi‑digit fuzzy truth profiles,  
+- infinity as frequency,  
+- octave‑aware logical operations,  
+- and scale‑invariant reasoning.
+
+The two sites are *illustrations* of these ideas:
+
+- **Lovable.dev** shows the *flow* and *movement* of truth.  
+- **Medo.dev** shows the *structure* and *symbolic logic* behind that flow.
+
+Together, they give you a fast, visual way to grasp the same concepts that the README explains in full detail.
+
+---
+
+# Full Introductory Article
+
+The FuzzyLogecs project stands on the foundation of Laegna numbers — a symbolic system where truth is not a point but a direction, a resonance, and an octave. The README describes this in detail, but two companion websites help you experience these ideas directly.
+
+The first site, built on lovable.dev, presents a circular model of fuzzy truth. It shows how the Z–X–Y structure forms a continuous loop: Z as the downward octave of falsity, X as the linear band where ordinary reasoning lives, and Y as the upward octave of truth. In this visualization, truth is not a static value but a movement. You can see how a value transitions from false to true, how it crosses the linear region, and how it rises into higher octaves. This matches the README’s explanation that truth in Laegna is a flow, not a binary state. The circle model also makes the octave jumps visible: Y⁺ lifting into a higher cycle, Z⁻ dropping into a lower one. These transitions are essential to understanding how infinity works in Laegna — not as a large number, but as a repeating relation.
+
+The second site, built on medo.dev, takes a different approach. Instead of focusing on motion, it focuses on structure. Here, Laegna numbers appear as multi‑digit symbolic objects: words like OI, AE, Ee, each carrying a truth‑flavor and an analytic behavior. This site illustrates how O and A form the linear region, how I compresses magnitudes logarithmically, and how E expands them exponentially. It also shows how these letters combine to form complex fuzzy truth profiles. This is closer to the README’s deeper sections, where truth is described as a multi‑layered object rather than a single scalar. The medo.dev interface helps you see how truth accumulates across time, how repeated small truths can sum to a full truth, and how resonance across scales preserves identity even when magnitudes differ.
+
+Both sites are intentionally simplified. They are not meant to replace the written theory. The README is more complete, more precise, and more mathematically faithful. It explains the full architecture: the Z–X–Y backbone, the O–A–I–E alphabet, the octave‑aware operations, the scale invariance, and the infinity‑relations that make Laegna a native fuzzy logic universe. The websites are illustrations — visual companions that help you grasp the intuition behind the system.
+
+Together, the README and the two interactive sites form a coherent whole. The README gives you the formal structure. The lovable.dev site shows the flow of truth. The medo.dev site shows the symbolic logic behind that flow. If you read the README first and then explore the two sites, you will see how the same ideas appear in different forms: textual, symbolic, and visual. This combination makes the system easier to understand, especially for newcomers who may not yet be familiar with octave‑based logic or infinity as a repeating relation.
+
+This introductory section is placed at the top of the README to give you immediate access to these tools. They are the fastest way to get a feel for the system before diving into the deeper theory that follows.
+
+---
+
 # FuzzyLogecs
 Laegna Fuzzy Logecs.
 

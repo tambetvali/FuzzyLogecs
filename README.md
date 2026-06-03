@@ -4,7 +4,7 @@ This project is accompanied by two interactive companion sites that help you *se
 They are not replacements for the written theory — the written material is more complete, more exact, and more mathematically faithful — but these two sites give you fast, visual entry points into the same conceptual space.
 
 ### **1. Fuzzy Laegna Logic — Interactive Circle Model**  
-**https://fuzzy-laegna-logic.lovable.app/#circle**
+**https://fuzzy-laegna-logic.lovable.app/**
 
 This site presents a circular, octave‑based visualization of Laegna fuzzy logic.  
 It focuses on:
